@@ -1,4 +1,4 @@
-baseURL = "https://wildfigshare.github.io/"
+baseURL = "https://wildfigshare.github.io"
 languageCode = "en-us"
 title = "WildFig Monday Meltdown"
 theme = "elephants"
